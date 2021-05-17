@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+
+/*
+
+em HTML é id = e em CSS é #
+em HTML e class = em CSS .
+
+*/
+body{
+    background-color: aquamarine;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+h1#PrimeiroH1{
+    color: rgb(3, 54, 35);
+    text-align: center;
+    background-color: azure;
+    border-radius: 15px;
+    display: grid;
+}
+
+
+
+
+
+h2{
+    color: rgb(50, 61, 57);
+
+}
